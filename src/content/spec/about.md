@@ -1,9 +1,18 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+## 關於
+資安小白一個
+ 
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+🚩[ICEDTEA](https://ic3dt3a.org/) 裡最弱的成員
+
+
+## 目前參加過的活動  
+| 名稱             　 | 身分  | 獎項/名次 |
+| ------------------ | ----- | -------- |
+| THJCC CTF 2024     | 參賽者 | 第 33 名  |
+| AIS3 Pre-exam 2024 | 參賽者 | 第 192 名 |
+| AIS3 Junior 2024   | 學生   | 最佳專題 |
+| HITCON CMT 2024    | 會眾   |    -    |
+| 金盾獎 2024         | 參賽者 | 入圍決賽 |
+| CGGC 2024          | 參賽者 | 第 50 名 |
+| No Hack No CTF 2024 | 出題者 |    -    |
