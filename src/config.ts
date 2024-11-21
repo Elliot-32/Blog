@@ -44,7 +44,7 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.About,
     {
       name: 'GitHub',
-      url: 'https://github.com/saicaca/fuwari',     // Internal links should not include the base path, as it is automatically added
+      url: 'https://github.com/Elliot-32',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
   ],
@@ -56,16 +56,16 @@ export const profileConfig: ProfileConfig = {
   bio: 'Cybersecurity Learner',
   links: [
     {
-      name: 'Instagram',
-      icon: 'fa6-brands:instagram',       // 造訪 https://icones.js.org/以取得圖示程式碼
+      name: 'Discord',
+      icon: 'fa6-brands:discord',       // 造訪 https://icones.js.org/以取得圖示程式碼
                                         //如果尚未包含，則需要安裝對應的圖示集
                                         //`pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://instagram.com/elliot_404_tw',
+      url: 'https://discord.com/users/628939416693506049',
     },
     {
-      name: 'Discord',
-      icon: 'fa6-brands:discord', //
-      url: 'https://discord.com/users/628939416693506049',
+      name: 'Instagram',
+      icon: 'fa6-brands:instagram', //
+      url: 'https://instagram.com/elliot_404_tw',
     },
     {
       name: 'GitHub',
