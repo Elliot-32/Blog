@@ -1,7 +1,7 @@
 ---
 title: Elliot's No Hack No CTF 2024 Official Write-up
 published: 2024-11-22
-description: 'My Challenge Writeup'
+description: ' '
 image: 'NHNC.webp'
 tags: [CTF, 資安, Write-up]
 category: 'CTF'
