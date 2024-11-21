@@ -64,7 +64,7 @@ Flag:`NHNC{image_url}`
 Flag:`NHNC{24.803_120.979}` or `NHNC{24.802_120.979}`  
 （如果以拍攝者角度來看的話那就是後者，下次應該改用四捨五入的）
 ### Beep beep beep!
-> [flag.wav](flag.wav)  
+> [flag.wav](https://github.com/Elliot-32/Elliot-32.github.io/raw/refs/heads/main/src/content/posts/NHNC2024wp/flag.wav)
 
 使用 `ffmpeg -i` 查看音檔資訊  
 ![image](ffmpeg.png)  
