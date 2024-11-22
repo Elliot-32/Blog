@@ -8,7 +8,7 @@ category: 'CTF'
 draft: false 
 ---
 
-[🚩 ctftime link](https://ctftime.org/event/2574/)
+[🚩 CTFtime](https://ctftime.org/event/2574/)
 
 ## 🏁 Misc
 ### Blog 1
