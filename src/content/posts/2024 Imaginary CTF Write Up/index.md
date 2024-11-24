@@ -2,7 +2,6 @@
 title: 2024 Imaginary CTF Write-up
 published: 2024-07-26
 description: ' '
-image: ImaginaryCTF_2024.png
 tags: [CTF, 資安, Write-up]
 category: 'CTF'
 draft: false
